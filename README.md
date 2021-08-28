@@ -1,24 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mohit</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
+- 🔭 I’m currently working on **some of my own side projects :P**
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Flutter, Go
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
-- ⚡ Fun fact: I :heart: :dog:s
+- 👨‍💻 All of my projects are available at [https://github.com/mohitjadav](https://github.com/mohitjadav)
 
+- 🧠 I am currently learning **Flutter,Android,JAVA,kotlin**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **jadavmohit86@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact **Big Fan of the emoji*
 
