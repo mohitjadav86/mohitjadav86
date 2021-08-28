@@ -9,5 +9,5 @@
 
 - 📫 How to reach me **jadavmohit86@gmail.com**
 
-- ⚡ Fun fact **Big Fan of the emoji*
+- ⚡ Fun fact **Big Fan of the emoji**
 
